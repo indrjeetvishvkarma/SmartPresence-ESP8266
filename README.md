@@ -117,7 +117,7 @@ Use relay modules with opto-isolation
 Don’t touch live wires while testing
 
 🙌 Credits
-Made with ❤️ by INDRJEET & [ChatGPT].
+Made with ❤️ by INDRJEET.
 Open-source, for learning and home innovation.
 
 🪪 License
