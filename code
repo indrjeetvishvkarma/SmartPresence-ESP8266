@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <SinricPro.h>
 #include <SinricProSwitch.h>
-
+//BY.INDRJEET
 // ======= WiFi & Sinric Credentials =========
 const char* ssid = "Your_WIFI_Name";
 const char* password = "Your_WIFI_Password";
